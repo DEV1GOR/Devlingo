@@ -1,4 +1,4 @@
-# Devlingo - Duolingo-Inspired App for Developers
+# Devlingo 
 
 Este é um aplicativo mobile desenvolvido com **React Native**, inspirado no **Duolingo**, chamado **Devlingo**, como parte do meu projeto para a disciplina de **Desenvolvimento Mobile**. O objetivo é ajudar desenvolvedores a aprenderem novas linguagens de programação e aprimorarem suas habilidades através de lições interativas, quizzes e desafios, tornando o aprendizado mais envolvente e divertido.
 
