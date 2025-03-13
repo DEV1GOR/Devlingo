@@ -2,6 +2,7 @@ import React from "react";
 
 import {
 Text, View, Image, TextInput,
+TouchableOpacity,
 } from 'react-native';
 
 import { style } from "./style";
@@ -47,8 +48,11 @@ export default function login(){
             </View>
            
             <View style={style.boxBottom}>
-                <Text>Bottom</Text>
+                <TouchableOpacity style={style.button}>
+                    <Text style={style.textButton}>Entrar</Text>
+                </TouchableOpacity>
             </View>
+            <Text style={style.textCriar}>Não tem conta? <Text>Crie agora!</Text></Text>
         </View>
     )
 }
